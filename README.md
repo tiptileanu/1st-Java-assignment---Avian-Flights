@@ -12,6 +12,7 @@ This a complete beginner take on a task in school:
   - implement an option check seats avilability by route
  - if a booking is cancelled, the correct acquisition price should be returned, price for next ticket will decrease by 28% and profit or loss adjusted accordingly
  - implement an option check seats availability by route
+ - implement an option that displays seats and prices for all flights/routes
  - implement an option called “management” that displays profit or loss 
  - each booking should ask for customer’s details:
 	  -first name
@@ -23,4 +24,4 @@ This a complete beginner take on a task in school:
 	  -passport number
   - if customer/passenger is under 16 years old, parent's details will be required: full name and contact means telephone no and email
   - customer's/passenger's details will be stored in a hashmap
-  - search to cancel booking will be done by passport number OR uniquely booking number generated at the time of booking
+  - search to cancel booking will be done by passport number OR unique booking number generated at the time of booking
